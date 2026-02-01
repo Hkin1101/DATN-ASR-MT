@@ -1,0 +1,6 @@
+Filename: 103-1240-0008.flac
+ASR (En): The orchard on the slope below the house was in a bridal flush of pinky white bloom, hummed over by a myriad of bees. Thomas Lind, a meek little man whom Avonle people called Rachel Lind's husband, was sowing his late turnip seed on the hillfield beyond the barn.
+MT  (output): Những gì trên độ dốc bên dưới ngôi nhà là trong một vũng nước của hoa hồng trắng hồng, được lấp đầy bởi một đống ong. một người đàn ông nhỏ bé, người đàn ông nhỏ bé Avole người mà Avole gọi cho chồng của Rachel Lind, là lần cuối cùng của mình lần lượt trên bãi cỏ bên ngoài chuồng.
+REF (expect): Vườn cây ăn quả trên sườn dốc phía dưới ngôi nhà đang rực rỡ sắc hồng trắng, thu hút vô số ong bướm vo ve. Thomas Lind, một người đàn ông nhỏ bé hiền lành mà người dân Avonle gọi là chồng của Rachel Lind, đang gieo hạt củ cải muộn trên cánh đồng phía sau chuồng trại.
+BLEU Score: 16.84
+--------------------------------------------------
